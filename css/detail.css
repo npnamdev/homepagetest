@@ -1,0 +1,27 @@
+#wp-content {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+#wp-detail-post {
+    width: 750px;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: justify;
+    padding: 0px 20px;
+}
+
+#wp-detail-post .post-title {
+    font-size: 33px;
+    margin-bottom: 10px;
+}
+
+#wp-detail-post .post-description {
+    margin-top: 20px;
+}
+
+#wp-detail-post .post-images {
+    width: 100%;
+    margin-top: 20px;
+}
